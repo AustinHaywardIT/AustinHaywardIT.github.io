@@ -322,6 +322,10 @@ section h2{
   
 }
 
+#contact a:hover{
+  color: rgb(143, 226, 143);
+}
+
 .waytocontact{
   color: rgb(148, 147, 147);
 }
