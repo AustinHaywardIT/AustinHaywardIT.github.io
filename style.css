@@ -366,6 +366,32 @@ section h2{
     margin-top: 100px;
   }
 
+  #htmlicon{
+    padding-right: 20px;
+    font-size: 20px;
+  }
+
+  #css3icon{
+    padding-right: 20px;
+    font-size: 20px;
+  }
+  
+  #jsicon{
+    padding-right: 20px;
+    font-size: 20px;
+  }
+  
+  #bsicon{
+    padding-right: 20px;
+    font-size: 20px;
+  }
+  
+  #pyicon{
+    padding-right: 20px;
+    font-size: 20px;
+  }
+  
+
   #projects{
     margin-top: 100px;
   }
@@ -429,6 +455,10 @@ section h2{
 
 .aboutbottom{
   margin-top: 100px;
+}
+
+.icons {
+  font-size: 20px;
 }
 
 #projects{
